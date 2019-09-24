@@ -1,0 +1,19 @@
+2019-09-24 06:58:36 pid:1 Worker process terminated
+2019-09-24 06:58:57 pid:1 Worker process terminated
+2019-09-24 06:59:20 pid:1 Worker process terminated
+2019-09-24 07:04:45 pid:1 Worker process terminated
+2019-09-24 07:04:48 pid:1 Worker process terminated
+2019-09-24 07:04:50 pid:1 Worker process terminated
+2019-09-24 07:04:51 pid:1 Worker process terminated
+2019-09-24 07:05:08 pid:1 Worker process terminated
+2019-09-24 07:07:49 pid:1 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in F:\wamp\www\test\phpsocket\index.php on line 96"
+2019-09-24 07:08:11 pid:1 Worker process terminated
+2019-09-24 15:10:23 pid:41027 Workerman[index.php] start in DAEMON mode
+2019-09-24 15:20:20 pid:41258 Workerman[index.php] start in DAEMON mode
+2019-09-24 15:20:20 pid:41258 Workerman[index.php] already running
+2019-09-24 15:20:39 pid:41260 Workerman[index.php] stop 
+2019-09-24 15:20:39 pid:41260 Workerman[index.php] is stopping ...
+2019-09-24 15:20:39 pid:41029 Workerman[index.php] stopping ...
+2019-09-24 15:20:39 pid:41029 Workerman[index.php] has been stopped
+2019-09-24 15:20:39 pid:41260 Workerman[index.php] stop success
+2019-09-24 15:20:42 pid:41261 Workerman[index.php] start in DAEMON mode
